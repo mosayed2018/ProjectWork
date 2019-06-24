@@ -1,0 +1,47 @@
+{
+  "testCases" : [ {
+    "uid" : "ecacff48d3cfed3e",
+    "name" : "Given I am on home page",
+    "title" : "Given I am on home page",
+    "time" : {
+      "start" : 1560704902919,
+      "stop" : 1560704902921,
+      "duration" : 2
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "33cbbd92d750c724",
+    "name" : "When I enter Mohamed into firstname text fields on home screen",
+    "title" : "When I enter Mohamed into firstname text fields on home screen",
+    "time" : {
+      "start" : 1560704903264,
+      "stop" : 1560704903264,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8b23195a9867e874",
+    "name" : "And I enter Hussein into lastname text fields on home screen",
+    "title" : "And I enter Hussein into lastname text fields on home screen",
+    "time" : {
+      "start" : 1560704903342,
+      "stop" : 1560704903342,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "85e8353ab4882869",
+    "name" : "Then I verify that signup button is disable at homepage",
+    "title" : "Then I verify that signup button is disable at homepage",
+    "time" : {
+      "start" : 1560704903365,
+      "stop" : 1560704903374,
+      "duration" : 9
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  } ]
+}

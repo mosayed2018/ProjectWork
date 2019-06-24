@@ -1,0 +1,53 @@
+{
+  "uid" : "ecacff48d3cfed3e",
+  "name" : "Given I am on home page",
+  "title" : "Given I am on home page",
+  "time" : {
+    "start" : 1560704902919,
+    "stop" : 1560704902921,
+    "duration" : 2
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "1aa5a1180beb2def",
+    "name" : "verify signup btton",
+    "title" : "verify signup btton"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "verify signup btton"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "verify signup btton"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "thread",
+    "value" : "1951@mohameds-MBP.cable.rcn.com.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "verify signup btton"
+  }, {
+    "name" : "host",
+    "value" : "mohameds-MBP.cable.rcn.com"
+  } ],
+  "parameters" : [ ]
+}

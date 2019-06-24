@@ -1,0 +1,29 @@
+{
+  "defectsList" : [ {
+    "title" : "Product defects",
+    "status" : "FAILED",
+    "defects" : [ {
+      "uid" : "3b48657125f5d52f",
+      "failure" : {
+        "message" : "AssertionError: Signup button should be disable expected [false] but found [true]",
+        "stackTrace" : "java.lang.AssertionError: Signup button should be disable expected [false] but found [true]\n\tat org.testng.Assert.fail(Assert.java:93)\n\tat org.testng.Assert.failNotEquals(Assert.java:512)\n\tat org.testng.Assert.assertFalse(Assert.java:62)\n\tat stepdefinition.LoginSD.verifyDisableSignupButton(LoginSD.java:73)\n\tat ✽.Then I verify that signup button is disable at homepage(login.feature:45)\n"
+      },
+      "testCases" : [ {
+        "uid" : "85e8353ab4882869",
+        "name" : "Then I verify that signup button is disable at homepage",
+        "title" : "Then I verify that signup button is disable at homepage",
+        "time" : {
+          "start" : 1560704903365,
+          "stop" : 1560704903374,
+          "duration" : 9
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  }, {
+    "title" : "Test defects",
+    "status" : "BROKEN",
+    "defects" : [ ]
+  } ]
+}
